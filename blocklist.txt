@@ -15,6 +15,7 @@
 0.0.0.0 aalaan.tv
 0.0.0.0 acccountsgoog1e.com
 0.0.0.0 accomodation-tastes.net
+0.0.0.0 account-login.site
 0.0.0.0 account-mail.info
 0.0.0.0 accountant-audio.com
 0.0.0.0 accountapp.xyz
@@ -40,6 +41,7 @@
 0.0.0.0 adibjan.net
 0.0.0.0 adjust-local-settings.com
 0.0.0.0 adjustlocalsettings.net
+0.0.0.0 adminmail.online
 0.0.0.0 adscreator.net
 0.0.0.0 adservices.gr.com
 0.0.0.0 adsload.co
@@ -475,6 +477,7 @@
 0.0.0.0 elpais.me
 0.0.0.0 eltiempo-news.com
 0.0.0.0 email-plans.com
+0.0.0.0 email-secure.online
 0.0.0.0 emails-support.site
 0.0.0.0 emiratesfoundation.net
 0.0.0.0 emonitoring-paczki.pl
@@ -880,6 +883,10 @@
 0.0.0.0 loadthatpage.com
 0.0.0.0 localegem.net
 0.0.0.0 localgreenflowers.com
+0.0.0.0 login-acc.email
+0.0.0.0 login-network.space
+0.0.0.0 login-service.email
+0.0.0.0 login-service.online
 0.0.0.0 loisiragogo.com
 0.0.0.0 lonely-place.com
 0.0.0.0 look-outsidenow.com
@@ -894,13 +901,20 @@
 0.0.0.0 lowlight.xyz
 0.0.0.0 lylink.online
 0.0.0.0 m-resume.com
+0.0.0.0 m4r3zb2ci0-noreply.pw
 0.0.0.0 maghrebfoot.com
 0.0.0.0 maghrebfunny.biz
 0.0.0.0 magicalipone.com
 0.0.0.0 mail-auth.email
 0.0.0.0 mail-auth.online
 0.0.0.0 mail-google.email
+0.0.0.0 mail-log.pw
+0.0.0.0 mail-secure.online
+0.0.0.0 mail-secure.tech
+0.0.0.0 mail-verify.live
 0.0.0.0 mailappzone.com
+0.0.0.0 maillogin.pw
+0.0.0.0 mailverify.live
 0.0.0.0 maingreatessay.com
 0.0.0.0 mainredirecter.com
 0.0.0.0 makeitshort.xyz
@@ -983,6 +997,7 @@
 0.0.0.0 muslim-world.info
 0.0.0.0 muzicclips.com
 0.0.0.0 muziclovers.org
+0.0.0.0 my-mail-inbox.com
 0.0.0.0 my-privacy.co
 0.0.0.0 my-short.com
 0.0.0.0 myaccount-support.top
@@ -1287,6 +1302,7 @@
 0.0.0.0 redirect-link.com
 0.0.0.0 redirect-net.com
 0.0.0.0 redirect-protocol.com
+0.0.0.0 redirect-secure.pw
 0.0.0.0 redirect-service.net
 0.0.0.0 redirect-systems.com
 0.0.0.0 redirect-traffic.net
@@ -1360,6 +1376,7 @@
 0.0.0.0 s3.hiahornber.com
 0.0.0.0 sabafon.info
 0.0.0.0 safe-mondays.net
+0.0.0.0 safebrowsing.website
 0.0.0.0 safecrusade.com
 0.0.0.0 safelyredirecting.com
 0.0.0.0 safelyredirecting.digital
@@ -1378,6 +1395,11 @@
 0.0.0.0 sec-checker.com
 0.0.0.0 secretgirlfriend.net
 0.0.0.0 secure-access10.mx
+0.0.0.0 secure-accounts.online
+0.0.0.0 secure-conn.pw
+0.0.0.0 secure-email.site
+0.0.0.0 secure-emails.online
+0.0.0.0 secure-login.services
 0.0.0.0 secured-url.net
 0.0.0.0 securedloading.com
 0.0.0.0 securedlogin.org
@@ -1395,6 +1417,7 @@
 0.0.0.0 sergek.info
 0.0.0.0 seriousprotection.net
 0.0.0.0 servers-mobile.info
+0.0.0.0 service-login.online
 0.0.0.0 service-update.online
 0.0.0.0 services-sync.com
 0.0.0.0 serviceupdaterequest.com
@@ -1416,6 +1439,8 @@
 0.0.0.0 shortxyz.com
 0.0.0.0 shtraf.info
 0.0.0.0 shuturl.com
+0.0.0.0 signin-aouth2.pw
+0.0.0.0 signin-verify.pw
 0.0.0.0 signpetition.co
 0.0.0.0 silverodgone.com
 0.0.0.0 simetricode.uk
@@ -1687,6 +1712,7 @@
 0.0.0.0 urlupdates.com
 0.0.0.0 urlviaweb.com
 0.0.0.0 urspanishteacher.net
+0.0.0.0 user-members.pro
 0.0.0.0 user-registration.com
 0.0.0.0 userauthen.pw
 0.0.0.0 uservicescheck.com
@@ -1700,6 +1726,9 @@
 0.0.0.0 vastdealsnow.com
 0.0.0.0 vault-encryption.com
 0.0.0.0 verify-app.online
+0.0.0.0 verify-mail.pro
+0.0.0.0 verifymail.live
+0.0.0.0 vers.pw
 0.0.0.0 videosdownload.co
 0.0.0.0 videosdownload.co
 0.0.0.0 videotubbe.net
@@ -1752,6 +1781,7 @@
 0.0.0.0 webadv.co
 0.0.0.0 webaffise.com
 0.0.0.0 webexaminer.net
+0.0.0.0 weblive.pw
 0.0.0.0 webpageupdate.co
 0.0.0.0 webprotector.co
 0.0.0.0 webprotocol.net
@@ -1779,6 +1809,7 @@
 0.0.0.0 whats-new.org
 0.0.0.0 whatsapp-app.com
 0.0.0.0 whatsappsupport.net
+0.0.0.0 whatsuppweb.me
 0.0.0.0 whereismybonus.com
 0.0.0.0 whereismyhand.com
 0.0.0.0 whereismytree.net
@@ -1786,6 +1817,7 @@
 0.0.0.0 whynotworkonit.top
 0.0.0.0 whynotyesterday.com
 0.0.0.0 whypillyellow.com
+0.0.0.0 wi-fi.email
 0.0.0.0 widget.shoreoa.com
 0.0.0.0 willpurpleshe.com
 0.0.0.0 windyone.net
@@ -1805,6 +1837,8 @@
 0.0.0.0 wtc1111.com
 0.0.0.0 wtc2222.com
 0.0.0.0 wtc3333.com
+0.0.0.0 www.secure-email.site
+0.0.0.0 xbz.pw
 0.0.0.0 xchange4u.net
 0.0.0.0 xchangerates247.net
 0.0.0.0 xf.actor
