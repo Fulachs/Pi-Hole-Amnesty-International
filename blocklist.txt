@@ -83,6 +83,7 @@
 0.0.0.0 android-updates.net
 0.0.0.0 api-apple-buy.com
 0.0.0.0 api-telecommunication.com
+0.0.0.0 api.ciscofreak.com
 0.0.0.0 apiapple.com
 0.0.0.0 apigraphs.net
 0.0.0.0 apiwacdn.com
@@ -104,6 +105,7 @@
 0.0.0.0 aramexegypt.com
 0.0.0.0 around-theglobe.co
 0.0.0.0 arrowowner.com
+0.0.0.0 art.guillermoespana.com
 0.0.0.0 asrararabiya.co
 0.0.0.0 asrararablya.com
 0.0.0.0 asrarrarabiya.com
@@ -299,6 +301,7 @@
 0.0.0.0 clubsforus.net
 0.0.0.0 cnn-africa.co
 0.0.0.0 cnn.gr.com
+0.0.0.0 coco.cechire.com
 0.0.0.0 coffecups.online
 0.0.0.0 coffee2go.org
 0.0.0.0 colorfulnotebooks.com
@@ -359,6 +362,7 @@
 0.0.0.0 deadwordsstory.com
 0.0.0.0 deal4unow.com
 0.0.0.0 dearlegendseed.com
+0.0.0.0 delicalo.dnsalias.net
 0.0.0.0 delivery-24-7.com
 0.0.0.0 dental-care-spa.net
 0.0.0.0 deportesinfo.com
@@ -768,6 +772,7 @@
 0.0.0.0 kurjerserviss.com
 0.0.0.0 labonneforme.net
 0.0.0.0 lamborghini-s.shop
+0.0.0.0 land.rellecharlessper.com
 0.0.0.0 landflatheart.com
 0.0.0.0 landingpg.xyz
 0.0.0.0 landingpge.xyz
@@ -1019,6 +1024,7 @@
 0.0.0.0 nightscloudwant.com
 0.0.0.0 nikjol.xyz
 0.0.0.0 nissan.gr.com
+0.0.0.0 node.podzone.org
 0.0.0.0 noextramoney.com
 0.0.0.0 noloveforyou.com
 0.0.0.0 nomorewarnow.com
@@ -1283,6 +1289,7 @@
 0.0.0.0 rosesforus.com
 0.0.0.0 russian4u.net
 0.0.0.0 rythemsjoy.club
+0.0.0.0 s3.hiahornber.com
 0.0.0.0 sabafon.info
 0.0.0.0 safe-mondays.net
 0.0.0.0 safecrusade.com
@@ -1392,6 +1399,7 @@
 0.0.0.0 sportupdates.online
 0.0.0.0 sputnik-news.info
 0.0.0.0 squaretables.net
+0.0.0.0 ssl.arkouthrie.com
 0.0.0.0 sslbind.com
 0.0.0.0 standartsheet.com
 0.0.0.0 standstock.net
@@ -1488,6 +1496,7 @@
 0.0.0.0 tinyurl.cloud
 0.0.0.0 tinyurler.com
 0.0.0.0 tiol.xyz
+0.0.0.0 tips.jasperpfeiffer.com
 0.0.0.0 tlgr-me.org
 0.0.0.0 tly.gr.com
 0.0.0.0 tly.link
@@ -1696,6 +1705,7 @@
 0.0.0.0 whynotworkonit.top
 0.0.0.0 whynotyesterday.com
 0.0.0.0 whypillyellow.com
+0.0.0.0 widget.shoreoa.com
 0.0.0.0 willpurpleshe.com
 0.0.0.0 windyone.net
 0.0.0.0 winfoxflip.com
