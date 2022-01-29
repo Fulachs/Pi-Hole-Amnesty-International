@@ -205,6 +205,7 @@
 0.0.0.0 brownandblueeyes.com
 0.0.0.0 browser-update.online
 0.0.0.0 browsercheck.services
+0.0.0.0 browserupdate.download
 0.0.0.0 bubblesmoke.net
 0.0.0.0 bubblesweetcake.com
 0.0.0.0 buildingcarpet.com
@@ -347,6 +348,7 @@
 0.0.0.0 cssgraphics.net
 0.0.0.0 cupscars.net
 0.0.0.0 curiousrabbitgame.com
+0.0.0.0 current.browserupdate.download
 0.0.0.0 currentscan.net
 0.0.0.0 currentwestpeople.com
 0.0.0.0 cut.red
@@ -521,6 +523,7 @@
 0.0.0.0 fiestamaghreb.com
 0.0.0.0 fif0.top
 0.0.0.0 files-downloads.com
+0.0.0.0 files.browserupdate.download
 0.0.0.0 filingwarranty.com
 0.0.0.0 fimes.gr.com
 0.0.0.0 financecomments.net
@@ -539,6 +542,7 @@
 0.0.0.0 fisherman.engine.ninja
 0.0.0.0 fishingtrickz.com
 0.0.0.0 fitness-for-ever.com
+0.0.0.0 flash.browserupdate.download
 0.0.0.0 flashobligation.com
 0.0.0.0 flashtraininggoal.com
 0.0.0.0 flexipagez.com
