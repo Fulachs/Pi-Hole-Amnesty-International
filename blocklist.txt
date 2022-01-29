@@ -226,10 +226,12 @@
 0.0.0.0 bulktheft.com
 0.0.0.0 bullgame.net
 0.0.0.0 bumabara.bid
+0.0.0.0 bun54l2b67.get1tn0w.free247downloads.com
 0.0.0.0 bunchi.club
 0.0.0.0 bundlestofear.com
 0.0.0.0 burgerprince.us
 0.0.0.0 businesnews.net
+0.0.0.0 business-today.info
 0.0.0.0 business-today.info
 0.0.0.0 businesssupportme.com
 0.0.0.0 bussybeesallover.com
@@ -589,6 +591,7 @@
 0.0.0.0 foudefoot.live
 0.0.0.0 free-local-events.info
 0.0.0.0 free247downloads.com
+0.0.0.0 free247downloads.com
 0.0.0.0 freedominfo.net
 0.0.0.0 freekremlin.com
 0.0.0.0 freelancers-team.org
@@ -688,6 +691,7 @@
 0.0.0.0 hillsaround.com
 0.0.0.0 hitrafficip.com
 0.0.0.0 hmizat.co
+0.0.0.0 hmizat.co
 0.0.0.0 holdingspider.com
 0.0.0.0 holdmydoor.com
 0.0.0.0 holdstory.com
@@ -747,6 +751,7 @@
 0.0.0.0 info24.live
 0.0.0.0 infosms-a.site
 0.0.0.0 infospotpro.com
+0.0.0.0 infospress.com
 0.0.0.0 infospress.com
 0.0.0.0 insertfilters.net
 0.0.0.0 inservices.digital
@@ -1337,6 +1342,7 @@
 0.0.0.0 results-house.net
 0.0.0.0 revoke-dashboard.com
 0.0.0.0 revolution-news.co
+0.0.0.0 revolution-news.co
 0.0.0.0 rewards-club.info
 0.0.0.0 rhymeshey.com
 0.0.0.0 righttriangle.net
@@ -1476,6 +1482,7 @@
 0.0.0.0 staysystem.net
 0.0.0.0 stonisi.news
 0.0.0.0 stopmysms.com
+0.0.0.0 stopsms.biz
 0.0.0.0 stopsms.biz
 0.0.0.0 storageseminar.net
 0.0.0.0 storelive.co
@@ -1690,6 +1697,7 @@
 0.0.0.0 vastdealsnow.com
 0.0.0.0 vault-encryption.com
 0.0.0.0 verify-app.online
+0.0.0.0 videosdownload.co
 0.0.0.0 videosdownload.co
 0.0.0.0 videotubbe.net
 0.0.0.0 vider-image.com
