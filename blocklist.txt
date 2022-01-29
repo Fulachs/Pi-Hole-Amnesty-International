@@ -13,13 +13,17 @@
 0.0.0.0 a-redirect.com
 0.0.0.0 a-resolver.com
 0.0.0.0 aalaan.tv
+0.0.0.0 acccountsgoog1e.com
 0.0.0.0 accomodation-tastes.net
+0.0.0.0 account-mail.info
 0.0.0.0 accountant-audio.com
+0.0.0.0 accountapp.xyz
 0.0.0.0 accountcanceled.com
 0.0.0.0 accountnotify.com
 0.0.0.0 accounts.loginshare.info
 0.0.0.0 accounts.mx
 0.0.0.0 accountsections.com
+0.0.0.0 accountsgoog1e.com
 0.0.0.0 activate-discount.com
 0.0.0.0 active-folders.com
 0.0.0.0 actorsshop.net
@@ -54,6 +58,7 @@
 0.0.0.0 akhbara-aalawsat.com
 0.0.0.0 alawaeltech.com
 0.0.0.0 albumphotopro.biz
+0.0.0.0 alexandr01299.xyz
 0.0.0.0 alignmentdisabled.net
 0.0.0.0 alive2plunge.com
 0.0.0.0 all-sales.info
@@ -115,6 +120,8 @@
 0.0.0.0 audienceflake.com
 0.0.0.0 audit-pvv.com
 0.0.0.0 auditorcast.com
+0.0.0.0 auth-google.site
+0.0.0.0 auth-mail.email
 0.0.0.0 auth.forwardtoken.website
 0.0.0.0 authenticangry.com
 0.0.0.0 authenticated-origin.com
@@ -126,6 +133,7 @@
 0.0.0.0 awardpractice.com
 0.0.0.0 axis-indication.net
 0.0.0.0 babies-bottles.com
+0.0.0.0 badoo-account-security.com
 0.0.0.0 bahrainsms.co
 0.0.0.0 balancewreckpoint.com
 0.0.0.0 banca-movil.com
@@ -271,6 +279,7 @@
 0.0.0.0 cheapmotelz.net
 0.0.0.0 cheapsolutions4u.com
 0.0.0.0 cheaptransporting.net
+0.0.0.0 check-activity.com.ru
 0.0.0.0 check-my-internetspeed.com
 0.0.0.0 checkboxcart.com
 0.0.0.0 checkboxfee.com
@@ -281,6 +290,7 @@
 0.0.0.0 chocolateicecreamlovers.com
 0.0.0.0 chocollife.me
 0.0.0.0 chormnet3.com
+0.0.0.0 chrome-redirect.top
 0.0.0.0 chubaka.org
 0.0.0.0 citroen.gr.com
 0.0.0.0 ckforward.one
@@ -308,7 +318,12 @@
 0.0.0.0 colorfulnotebooks.com
 0.0.0.0 colorsoflife.online
 0.0.0.0 columbus-parking.com
+0.0.0.0 com-auth.site
+0.0.0.0 com-enter.site
+0.0.0.0 com-gm.site
+0.0.0.0 com-google.site
 0.0.0.0 com-reports.net
+0.0.0.0 comericac.com
 0.0.0.0 companybreakfast.net
 0.0.0.0 computer-set.com
 0.0.0.0 conditionalcell.com
@@ -369,6 +384,9 @@
 0.0.0.0 dental-care-spa.net
 0.0.0.0 deportesinfo.com
 0.0.0.0 designednetwork.com
+0.0.0.0 desktest1.xyz
+0.0.0.0 desktest5.xyz
+0.0.0.0 desktest9.xyz
 0.0.0.0 destinytool.net
 0.0.0.0 detailrush.net
 0.0.0.0 deter-individuals.com
@@ -402,6 +420,8 @@
 0.0.0.0 dogopics.com
 0.0.0.0 doitformom.com
 0.0.0.0 doitforthefame-now.com
+0.0.0.0 dokerest.xyz
+0.0.0.0 dokertest.xyz
 0.0.0.0 domain-control.net
 0.0.0.0 domain-redirect.com
 0.0.0.0 domain-resolver.net
@@ -425,6 +445,7 @@
 0.0.0.0 dragonair.xyz
 0.0.0.0 dramatic-challenge.com
 0.0.0.0 driventicket.com
+0.0.0.0 droinjoin.xyz
 0.0.0.0 duniaenewsportal.ddns.net
 0.0.0.0 e-loading.biz
 0.0.0.0 e-prokuror.info
@@ -452,6 +473,7 @@
 0.0.0.0 elpais.me
 0.0.0.0 eltiempo-news.com
 0.0.0.0 email-plans.com
+0.0.0.0 emails-support.site
 0.0.0.0 emiratesfoundation.net
 0.0.0.0 emonitoring-paczki.pl
 0.0.0.0 energy-dispatch.net
@@ -514,6 +536,7 @@
 0.0.0.0 fbc8213450838f7ae251d4519c195138.xyz
 0.0.0.0 fbsecurity.co
 0.0.0.0 feature-publish.net
+0.0.0.0 fedortest.xyz
 0.0.0.0 feelbonesbag.com
 0.0.0.0 feeltrail.com
 0.0.0.0 femmedaffaire.com
@@ -567,10 +590,13 @@
 0.0.0.0 free-local-events.info
 0.0.0.0 free247downloads.com
 0.0.0.0 freedominfo.net
+0.0.0.0 freekremlin.com
 0.0.0.0 freelancers-team.org
 0.0.0.0 freeshoemoon.com
 0.0.0.0 freshandsoftbread.com
 0.0.0.0 freshsaladtoday.com
+0.0.0.0 frosdank.com
+0.0.0.0 frostdank.com
 0.0.0.0 full.naturalpercent.life
 0.0.0.0 functionalcover.com
 0.0.0.0 fundum8430.com
@@ -581,6 +607,7 @@
 0.0.0.0 fwupdating.com
 0.0.0.0 gadgetproof.net
 0.0.0.0 gadgetsshop.info
+0.0.0.0 garant-help.com
 0.0.0.0 gate-sync.net
 0.0.0.0 gdfr.online
 0.0.0.0 gearstereotype.com
@@ -604,6 +631,7 @@
 0.0.0.0 globalcoverage.co
 0.0.0.0 globalnews247.net
 0.0.0.0 globalsupporteam.com
+0.0.0.0 gmail-warning.top
 0.0.0.0 go-trip.online
 0.0.0.0 goldenscent.net
 0.0.0.0 goldenscint.com
@@ -613,6 +641,7 @@
 0.0.0.0 goodcookingonline.com
 0.0.0.0 goodflowersinside.com
 0.0.0.0 goodthoughts4u.com
+0.0.0.0 google-activity.pw
 0.0.0.0 googleplay-store.com
 0.0.0.0 goroskop.co
 0.0.0.0 gosokm.com
@@ -631,6 +660,7 @@
 0.0.0.0 gulf-news.info
 0.0.0.0 gulfca.net
 0.0.0.0 gumclockberry.com
+0.0.0.0 gvoice8765.online
 0.0.0.0 hairdresseraroundme.com
 0.0.0.0 halal-place.com
 0.0.0.0 handcraftedformat.com
@@ -681,6 +711,7 @@
 0.0.0.0 howisurday.com
 0.0.0.0 howtoexplorebirds.com
 0.0.0.0 howtomakeavocadotoastandegg.com
+0.0.0.0 hpphhpph.com
 0.0.0.0 hracingtips.com
 0.0.0.0 htmlmetrics.com
 0.0.0.0 htmlstats.net
@@ -693,6 +724,7 @@
 0.0.0.0 icloudeu.com
 0.0.0.0 icloudflair.com
 0.0.0.0 icrcworld.com
+0.0.0.0 id-support-email.com
 0.0.0.0 ideas-telcel.com.mx
 0.0.0.0 igiheonline.com
 0.0.0.0 iibt.xyz
@@ -748,6 +780,7 @@
 0.0.0.0 jaimelire.net
 0.0.0.0 jeeyarworld.com
 0.0.0.0 join.officeframe.work
+0.0.0.0 joindroin.xyz
 0.0.0.0 jquery-updater.xyz
 0.0.0.0 judgeauthority.com
 0.0.0.0 just-one-left.com
@@ -776,6 +809,7 @@
 0.0.0.0 kranos.gr.com
 0.0.0.0 kurjerserviss.com
 0.0.0.0 labonneforme.net
+0.0.0.0 lamatrest.xyz
 0.0.0.0 lamborghini-s.shop
 0.0.0.0 land.rellecharlessper.com
 0.0.0.0 landflatheart.com
@@ -857,6 +891,9 @@
 0.0.0.0 maghrebfoot.com
 0.0.0.0 maghrebfunny.biz
 0.0.0.0 magicalipone.com
+0.0.0.0 mail-auth.email
+0.0.0.0 mail-auth.online
+0.0.0.0 mail-google.email
 0.0.0.0 mailappzone.com
 0.0.0.0 maingreatessay.com
 0.0.0.0 mainredirecter.com
@@ -941,7 +978,10 @@
 0.0.0.0 muzicclips.com
 0.0.0.0 muziclovers.org
 0.0.0.0 my-privacy.co
+0.0.0.0 my-short.com
+0.0.0.0 myaccount-support.top
 0.0.0.0 mybrightidea.co
+0.0.0.0 mycabinet.xyz
 0.0.0.0 mycoffeeshop.shop
 0.0.0.0 mydailycooking.net
 0.0.0.0 mydarkarms.com
@@ -958,6 +998,10 @@
 0.0.0.0 mymanagement-service.com
 0.0.0.0 mymensaje-sms.com
 0.0.0.0 mymobile-cell.com
+0.0.0.0 mynavvfedera1.org
+0.0.0.0 mynavyfedera1.org
+0.0.0.0 mynavyfedral.org
+0.0.0.0 mynevyfedera1.org
 0.0.0.0 mynewbesttime.com
 0.0.0.0 mypostservice.online
 0.0.0.0 mysadaga.com
@@ -979,7 +1023,12 @@
 0.0.0.0 nation24.info
 0.0.0.0 nationalleagues.net
 0.0.0.0 natural-ice.com
+0.0.0.0 navyfedara1.org
+0.0.0.0 navyfedera1.com
+0.0.0.0 navyfedera1.org
+0.0.0.0 navyfederai.org
 0.0.0.0 navywalls.com
+0.0.0.0 nayfedera1.org
 0.0.0.0 nbrowser.org
 0.0.0.0 nemshi-news.live
 0.0.0.0 nemshi-news.xyz
@@ -996,6 +1045,7 @@
 0.0.0.0 networkingproperty.com
 0.0.0.0 neutralpages.com
 0.0.0.0 neverwayneck.com
+0.0.0.0 nevyfedera1.org
 0.0.0.0 newandfresh.com
 0.0.0.0 newandroidapps.net
 0.0.0.0 newarrivals.club
@@ -1029,6 +1079,7 @@
 0.0.0.0 nightscloudwant.com
 0.0.0.0 nikjol.xyz
 0.0.0.0 nissan.gr.com
+0.0.0.0 nitroqensports.eu
 0.0.0.0 node.podzone.org
 0.0.0.0 noextramoney.com
 0.0.0.0 noloveforyou.com
@@ -1055,6 +1106,7 @@
 0.0.0.0 novosti.bid
 0.0.0.0 novosti247.com
 0.0.0.0 now-online.net
+0.0.0.0 nsdns.xyz
 0.0.0.0 nsoqa.com
 0.0.0.0 nuevaidea.co
 0.0.0.0 objectreduction.com
@@ -1163,6 +1215,7 @@
 0.0.0.0 pourcentfilers.com
 0.0.0.0 poweredbycpanel.com
 0.0.0.0 poweredlock.com
+0.0.0.0 poxypoxy.xyz
 0.0.0.0 ppcisdead.com
 0.0.0.0 pprocessor.net
 0.0.0.0 practical-basis.net
@@ -1212,6 +1265,7 @@
 0.0.0.0 rapidredirecting.com
 0.0.0.0 raresound.org
 0.0.0.0 raw-console.com
+0.0.0.0 rc-room.com
 0.0.0.0 reachcomputer.com
 0.0.0.0 readingbooksnow.com
 0.0.0.0 readirectly.com
@@ -1434,6 +1488,7 @@
 0.0.0.0 sunrise-brink.net
 0.0.0.0 sunsetdnsnow.com
 0.0.0.0 superlinks4u.com
+0.0.0.0 support-emails.host
 0.0.0.0 supportonline4me.com
 0.0.0.0 supportset.net
 0.0.0.0 surprising-sites.com
@@ -1450,6 +1505,7 @@
 0.0.0.0 syncupdate.site
 0.0.0.0 systemtrees.com
 0.0.0.0 t-support.net
+0.0.0.0 t1bank.xyz
 0.0.0.0 tablereservation.info
 0.0.0.0 tahmilmilafate.com
 0.0.0.0 tahmilmilafate.info
@@ -1471,6 +1527,11 @@
 0.0.0.0 teslal.shop
 0.0.0.0 teslal.xyz
 0.0.0.0 teslali.com
+0.0.0.0 testdhome1.xyz
+0.0.0.0 testdhome4.xyz
+0.0.0.0 testdom1.xyz
+0.0.0.0 testdom3.xyz
+0.0.0.0 testfor7.xyz
 0.0.0.0 tgrthgsrgwrthwrtgwr.xyz
 0.0.0.0 thainews.asia
 0.0.0.0 thankstossl.com
@@ -1641,8 +1702,10 @@
 0.0.0.0 viva.gr.com
 0.0.0.0 vivrechezsoi.info
 0.0.0.0 vkan-profile.com
+0.0.0.0 vkontak1e.com
 0.0.0.0 vodafoneegypt.tech
 0.0.0.0 vodafonegypt.com
+0.0.0.0 voice98765.online
 0.0.0.0 volcanodistance.com
 0.0.0.0 volcanosregion.com
 0.0.0.0 waffleswithnutella.com
@@ -1734,6 +1797,13 @@
 0.0.0.0 xchange4u.net
 0.0.0.0 xchangerates247.net
 0.0.0.0 xf.actor
+0.0.0.0 xn--avyfedera-yubm.org
+0.0.0.0 xn--bckchain-v3a30f.com
+0.0.0.0 xn--blckchain-17c.com
+0.0.0.0 xn--blockcain-lmb.com
+0.0.0.0 xn--mynavyfedera-occ.org
+0.0.0.0 xn--navyfderal-36a.com
+0.0.0.0 xn--navyfedera-j0b.org
 0.0.0.0 xn--nissn-3jc.com
 0.0.0.0 xn--noki-t5b.com
 0.0.0.0 xn--telegrm-qbd.com
@@ -1742,6 +1812,7 @@
 0.0.0.0 xyvok.xyz
 0.0.0.0 y0utube.com.mx
 0.0.0.0 yallakora-egy.com
+0.0.0.0 yandex-account-security.com
 0.0.0.0 yo.utube.digital
 0.0.0.0 yo.utube.to
 0.0.0.0 youarefired.xyz
