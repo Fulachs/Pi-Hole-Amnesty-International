@@ -425,6 +425,7 @@
 0.0.0.0 dragonair.xyz
 0.0.0.0 dramatic-challenge.com
 0.0.0.0 driventicket.com
+0.0.0.0 duniaenewsportal.ddns.net
 0.0.0.0 e-loading.biz
 0.0.0.0 e-prokuror.info
 0.0.0.0 e-sveiciens.com
@@ -1273,6 +1274,7 @@
 0.0.0.0 rentalindustries.com
 0.0.0.0 rentmotors.net
 0.0.0.0 research-archive.com
+0.0.0.0 researchplanet.zapto.org
 0.0.0.0 reseausocialsolutions.co
 0.0.0.0 reservationszone.com
 0.0.0.0 reseufun.com
@@ -1382,6 +1384,7 @@
 0.0.0.0 social-exercise.com
 0.0.0.0 social-life.info
 0.0.0.0 social-rights.com
+0.0.0.0 socialstatistics.zapto.org
 0.0.0.0 sockstubename.com
 0.0.0.0 solargoup.xyz
 0.0.0.0 solargroup.xyz
