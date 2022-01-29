@@ -1541,6 +1541,8 @@
 0.0.0.0 tvshowcusting.com
 0.0.0.0 tw.itter.me
 0.0.0.0 twiitter.com.mx
+0.0.0.0 twitt-er.app
+0.0.0.0 twittre.co
 0.0.0.0 twtter.net
 0.0.0.0 uaenews.online
 0.0.0.0 ube.gr.com
@@ -1729,6 +1731,7 @@
 0.0.0.0 youaresostupid.net
 0.0.0.0 youcantpass.com
 0.0.0.0 youintelligence.com
+0.0.0.0 youl.tube
 0.0.0.0 youliehow.com
 0.0.0.0 yourbestclothes.com
 0.0.0.0 yourbestefforts.com
