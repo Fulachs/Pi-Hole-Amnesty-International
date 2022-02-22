@@ -151,6 +151,7 @@
 0.0.0.0 av-scanner.com
 0.0.0.0 avocadofight.com
 0.0.0.0 awardpractice.com
+0.0.0.0 awizo.info
 0.0.0.0 axis-indication.net
 0.0.0.0 babies-bottles.com
 0.0.0.0 badoo-account-security.com
@@ -752,6 +753,7 @@
 0.0.0.0 holdmydoor.com
 0.0.0.0 holdstory.com
 0.0.0.0 holecatorange.com
+0.0.0.0 holiday-sun.net
 0.0.0.0 holiday4u.work
 0.0.0.0 homeishere.co
 0.0.0.0 homemadecandies.net
@@ -984,6 +986,7 @@
 0.0.0.0 login-network.space
 0.0.0.0 login-service.email
 0.0.0.0 login-service.online
+0.0.0.0 loginverify.net
 0.0.0.0 loisiragogo.com
 0.0.0.0 lonely-place.com
 0.0.0.0 look-outsidenow.com
@@ -1260,6 +1263,7 @@
 0.0.0.0 newsofficial.info
 0.0.0.0 newsofgames.com
 0.0.0.0 newsofthemoment.net
+0.0.0.0 newsportal24.online
 0.0.0.0 newtarrifs.net
 0.0.0.0 newworld-news.com
 0.0.0.0 newzeto.xyz
@@ -1320,6 +1324,7 @@
 0.0.0.0 omanreal.net
 0.0.0.0 omeega.xyz
 0.0.0.0 one-isnot-enough.com
+0.0.0.0 oneadjump.com
 0.0.0.0 oneleadingchat.com
 0.0.0.0 onetreeinheaven.com
 0.0.0.0 online-dailynews.com
@@ -1570,6 +1575,7 @@
 0.0.0.0 safelyredirecting.com
 0.0.0.0 safelyredirecting.digital
 0.0.0.0 saladsaroundme.com
+0.0.0.0 sale-2019.com
 0.0.0.0 saltyapplepie.com
 0.0.0.0 same-old.net
 0.0.0.0 savemoretime.co
