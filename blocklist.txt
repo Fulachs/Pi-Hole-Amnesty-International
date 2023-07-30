@@ -528,6 +528,7 @@
 0.0.0.0 editorscolumn.net
 0.0.0.0 edolio5.com
 0.0.0.0 effectivespeech.net
+0.0.0.0 efsyn.news
 0.0.0.0 efsyn.online
 0.0.0.0 eg-gov.org
 0.0.0.0 egov-online.com
@@ -545,6 +546,7 @@
 0.0.0.0 emails-support.site
 0.0.0.0 emiratesfoundation.net
 0.0.0.0 emonitoring-paczki.pl
+0.0.0.0 emvolio-gov.gr
 0.0.0.0 energy-dispatch.net
 0.0.0.0 engine.ninja
 0.0.0.0 enigmase.xyz
@@ -636,6 +638,7 @@
 0.0.0.0 fishingtrickz.com
 0.0.0.0 fitness-for-ever.com
 0.0.0.0 flash.browserupdate.download
+0.0.0.0 flash.gr.com
 0.0.0.0 flashobligation.com
 0.0.0.0 flashtraininggoal.com
 0.0.0.0 flexipagez.com
@@ -867,6 +870,7 @@
 0.0.0.0 indrive.info
 0.0.0.0 industry-specialist.com
 0.0.0.0 ineediscounts.com
+0.0.0.0 inews.gr.com
 0.0.0.0 info24.live
 0.0.0.0 infoquiz.net
 0.0.0.0 infosms-a.site
@@ -881,6 +885,7 @@
 0.0.0.0 instagam.photos
 0.0.0.0 instangram.com.mx
 0.0.0.0 instegram.co
+0.0.0.0 insurance.gr.com
 0.0.0.0 internetmobilespeed.com
 0.0.0.0 intim-media.net
 0.0.0.0 investigationews.com
@@ -983,6 +988,7 @@
 0.0.0.0 liponals.store
 0.0.0.0 littlefrogalarm.com
 0.0.0.0 live-once.net
+0.0.0.0 live24.gr.com
 0.0.0.0 livingwithbadkidny.xyz
 0.0.0.0 lizzardsnail.com
 0.0.0.0 llinkedin.net
@@ -1017,6 +1023,7 @@
 0.0.0.0 loveandhatenow.com
 0.0.0.0 lowervalues.com
 0.0.0.0 lowlight.xyz
+0.0.0.0 lubentv.com
 0.0.0.0 lylink.online
 0.0.0.0 m-resume.com
 0.0.0.0 m4r3zb2ci0-noreply.pw
@@ -1846,6 +1853,7 @@
 0.0.0.0 todaysdeals4u.com
 0.0.0.0 todoinfonet.com
 0.0.0.0 toggletools.com
+0.0.0.0 tokoulouri.live
 0.0.0.0 tommyfame.com
 0.0.0.0 tomorrowpastno.com
 0.0.0.0 tookcheckout.com
@@ -1894,6 +1902,7 @@
 0.0.0.0 turkishairines.info
 0.0.0.0 tutanota.org
 0.0.0.0 tvshowcusting.com
+0.0.0.0 tvxs.news
 0.0.0.0 tw.itter.me
 0.0.0.0 twiitter.com.mx
 0.0.0.0 twitt-er.app
@@ -1995,6 +2004,7 @@
 0.0.0.0 voice98765.online
 0.0.0.0 volcanodistance.com
 0.0.0.0 volcanosregion.com
+0.0.0.0 vouliwatch.gr.com
 0.0.0.0 waffleswithnutella.com
 0.0.0.0 waitingtoload.com
 0.0.0.0 walkerpost.net
