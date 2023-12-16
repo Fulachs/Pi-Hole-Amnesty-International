@@ -11,6 +11,7 @@
 0.0.0.0 7style.org
 0.0.0.0 800health.net
 0.0.0.0 911hig11carcay959454.com
+0.0.0.0 9o.gg
 0.0.0.0 a-redirect.com
 0.0.0.0 a-resolver.com
 0.0.0.0 aalaan.tv
@@ -43,6 +44,7 @@
 0.0.0.0 active-folders.com
 0.0.0.0 actorsshop.net
 0.0.0.0 actu24.online
+0.0.0.0 actualite.emergence-mada.com
 0.0.0.0 actumali.org
 0.0.0.0 ad-generator.net
 0.0.0.0 ad-switcher.com
@@ -52,6 +54,7 @@
 0.0.0.0 addons.news
 0.0.0.0 addresstimeframe.com
 0.0.0.0 adeal4u.co
+0.0.0.0 adenuncia.com
 0.0.0.0 adibjan.net
 0.0.0.0 adjust-local-settings.com
 0.0.0.0 adjustlocalsettings.net
@@ -66,8 +69,11 @@
 0.0.0.0 advertsservices.com
 0.0.0.0 advfb.xyz
 0.0.0.0 affise.app
+0.0.0.0 africa-confidentiel.fr
+0.0.0.0 afrinew.net
 0.0.0.0 afriquenouvelle.com
 0.0.0.0 agilityprocessing.net
+0.0.0.0 air-shopping.net
 0.0.0.0 aircraftsxhibition.com
 0.0.0.0 ajelnews.net
 0.0.0.0 akhbar-aliqtisad.com
@@ -88,6 +94,7 @@
 0.0.0.0 alive2plunge.com
 0.0.0.0 all-sales.info
 0.0.0.0 allafricaninfo.com
+0.0.0.0 allafrika.live
 0.0.0.0 allbeautifularts.com
 0.0.0.0 alldaycooking.co
 0.0.0.0 allergiesandcooking.com
@@ -99,7 +106,9 @@
 0.0.0.0 allthemakeupyouneed.com
 0.0.0.0 allthesongsyoulike.com
 0.0.0.0 alluneed4home.net
+0.0.0.0 almal-news.com
 0.0.0.0 almasryelyuom.com
+0.0.0.0 almasrylayoum.com
 0.0.0.0 alpharythme.com
 0.0.0.0 alpineai.uk
 0.0.0.0 alraeeenews.com
@@ -112,6 +121,7 @@
 0.0.0.0 android-apps.tech
 0.0.0.0 android-core.org
 0.0.0.0 android-updates.net
+0.0.0.0 aoatlasescort.com
 0.0.0.0 api-apple-buy.com
 0.0.0.0 api-telecommunication.com
 0.0.0.0 api.ciscofreak.com
@@ -175,6 +185,7 @@
 0.0.0.0 bargainservice.online
 0.0.0.0 bbc-africa.com
 0.0.0.0 bbcsworld.com
+0.0.0.0 bbitly.com
 0.0.0.0 bdaynotes.com
 0.0.0.0 beanbounce.net
 0.0.0.0 beautifulhousesaroundme.com
@@ -194,6 +205,8 @@
 0.0.0.0 bestsalesaroundme.com
 0.0.0.0 beststores4u.com
 0.0.0.0 bestsushiever.com
+0.0.0.0 bestwesternt.com
+0.0.0.0 betly.me
 0.0.0.0 better-deal.info
 0.0.0.0 betterapplesearch.com
 0.0.0.0 betterhandsblack.com
@@ -215,6 +228,7 @@
 0.0.0.0 bitlinkin.xyz
 0.0.0.0 bitlly.live
 0.0.0.0 bitlyrs.com
+0.0.0.0 bitshort.info
 0.0.0.0 bitt.fi
 0.0.0.0 bity.ws
 0.0.0.0 bityl.me
@@ -225,6 +239,7 @@
 0.0.0.0 blackwhitebags.com
 0.0.0.0 blcheck.utensils.pro
 0.0.0.0 blindlydivision.com
+0.0.0.0 blitzmedia.live
 0.0.0.0 blockedsituation.net
 0.0.0.0 blogreseller.net
 0.0.0.0 blu142-live.com
@@ -252,8 +267,10 @@
 0.0.0.0 breaking-extranews.online
 0.0.0.0 breaking-news.co
 0.0.0.0 breakingnewsasia.com
+0.0.0.0 breaknews.live
 0.0.0.0 breakthenews.net
 0.0.0.0 brighttooth.net
+0.0.0.0 brkorage.live
 0.0.0.0 brownandblueeyes.com
 0.0.0.0 browser-checked.com
 0.0.0.0 browser-secures.com
@@ -265,6 +282,7 @@
 0.0.0.0 browsers-secure.com
 0.0.0.0 browsers-secures.com
 0.0.0.0 browserupdate.download
+0.0.0.0 btlin.life
 0.0.0.0 bubblesmoke.net
 0.0.0.0 bubblesweetcake.com
 0.0.0.0 buildingcarpet.com
@@ -272,6 +290,7 @@
 0.0.0.0 buildyourdata.com
 0.0.0.0 bul174-live.com
 0.0.0.0 bulbazaur.com
+0.0.0.0 bulk-ads.com
 0.0.0.0 bulk-theft.net
 0.0.0.0 bulk.fun
 0.0.0.0 bulksender.info
@@ -284,6 +303,7 @@
 0.0.0.0 burgerprince.us
 0.0.0.0 businesnews.net
 0.0.0.0 business-today.info
+0.0.0.0 businessafricaonline.org
 0.0.0.0 businesssupportme.com
 0.0.0.0 bussybeesallover.com
 0.0.0.0 bustimer.net
@@ -291,9 +311,12 @@
 0.0.0.0 buymanuel.co
 0.0.0.0 buypresent4me.net
 0.0.0.0 bytlo.com
+0.0.0.0 c.betly.me
 0.0.0.0 cablegirls.net
 0.0.0.0 calculatesymbols.com
 0.0.0.0 calendarsapp.com
+0.0.0.0 candidaturasminfin.info
+0.0.0.0 candidaturassonangol.info
 0.0.0.0 candlealbum.com
 0.0.0.0 canyouc.xyz
 0.0.0.0 captcha.bl33pon6373.com
@@ -325,6 +348,7 @@
 0.0.0.0 centrasia-news.com
 0.0.0.0 changesstarted.net
 0.0.0.0 charmander.xyz
+0.0.0.0 chat-support.support
 0.0.0.0 chatresponses.com
 0.0.0.0 chatwithme.store
 0.0.0.0 cheapapartmentsaroundme.com
@@ -351,10 +375,13 @@
 0.0.0.0 chormnet3.com
 0.0.0.0 chrome-redirect.top
 0.0.0.0 chubaka.org
+0.0.0.0 cibeg.online
 0.0.0.0 citroen.gr.com
 0.0.0.0 ckforward.one
 0.0.0.0 classic-furnitures.com
 0.0.0.0 classstylemap.com
+0.0.0.0 clckbck.com
+0.0.0.0 clcti.net
 0.0.0.0 cleanmiddle.com
 0.0.0.0 clickrighthere.online
 0.0.0.0 clicktrack247.com
@@ -368,8 +395,10 @@
 0.0.0.0 cloudtimesync.com
 0.0.0.0 clubloading.net
 0.0.0.0 clubmovistar.com
+0.0.0.0 clubs-k.com
 0.0.0.0 clubsforus.net
 0.0.0.0 cnn-africa.co
+0.0.0.0 cnn-portugal.com
 0.0.0.0 cnn.gr.com
 0.0.0.0 coco.cechire.com
 0.0.0.0 coffecups.online
@@ -395,6 +424,7 @@
 0.0.0.0 connectivitycheck.live
 0.0.0.0 connectivitycheck.online
 0.0.0.0 connectivitychecker.com
+0.0.0.0 conodeti.com
 0.0.0.0 contacting-customer.com
 0.0.0.0 content-blocking.net
 0.0.0.0 contents-domain.com
@@ -407,6 +437,8 @@
 0.0.0.0 coolbbqtools.net
 0.0.0.0 coolmath4us.net
 0.0.0.0 cornclean.com
+0.0.0.0 correiosdeangola.info
+0.0.0.0 cosmote.center
 0.0.0.0 cottondecay.com
 0.0.0.0 countrytrips.net
 0.0.0.0 coupedumondepro.com
@@ -424,6 +456,7 @@
 0.0.0.0 cryptopcoinz.com
 0.0.0.0 csomagodjott.com
 0.0.0.0 cssgraphics.net
+0.0.0.0 culniks.info
 0.0.0.0 cupscars.net
 0.0.0.0 curiousrabbitgame.com
 0.0.0.0 current.browserupdate.download
@@ -442,6 +475,7 @@
 0.0.0.0 databasemeans.net
 0.0.0.0 deadwordsstory.com
 0.0.0.0 deal4unow.com
+0.0.0.0 dealstransfer.net
 0.0.0.0 dearlegendseed.com
 0.0.0.0 delicalo.dnsalias.net
 0.0.0.0 delivery-24-7.com
@@ -456,6 +490,7 @@
 0.0.0.0 deter-individuals.com
 0.0.0.0 devicer.co
 0.0.0.0 dhcpserver.net
+0.0.0.0 dhll.live
 0.0.0.0 diagram-shape.com
 0.0.0.0 diaspora-news.com
 0.0.0.0 diningip.com
@@ -514,6 +549,8 @@
 0.0.0.0 driventicket.com
 0.0.0.0 droinjoin.xyz
 0.0.0.0 duniaenewsportal.ddns.net
+0.0.0.0 dw-news.co
+0.0.0.0 dynamic-dns.net
 0.0.0.0 e-loading.biz
 0.0.0.0 e-prokuror.info
 0.0.0.0 e-sveiciens.com
@@ -534,6 +571,7 @@
 0.0.0.0 egov-online.com
 0.0.0.0 egov-segek.info
 0.0.0.0 egov-sergek.info
+0.0.0.0 egypt-post.com
 0.0.0.0 egyqaz.com
 0.0.0.0 ehistorybooks.com
 0.0.0.0 elementscart.com
@@ -541,6 +579,7 @@
 0.0.0.0 elitecarz.net
 0.0.0.0 elpais.me
 0.0.0.0 eltiempo-news.com
+0.0.0.0 elwatnanews.com
 0.0.0.0 email-plans.com
 0.0.0.0 email-secure.online
 0.0.0.0 emails-support.site
@@ -565,6 +604,7 @@
 0.0.0.0 eurasianupdate.com
 0.0.0.0 eurosportnews.info
 0.0.0.0 event-reg.info
+0.0.0.0 eventes.org
 0.0.0.0 everycolor-inside.com
 0.0.0.0 everyuse.org
 0.0.0.0 ewish.cards
@@ -588,6 +628,7 @@
 0.0.0.0 fabric-shops.com
 0.0.0.0 face-image.com
 0.0.0.0 facebook-accounts.com.mx
+0.0.0.0 factosdiarios.co
 0.0.0.0 fadewallwine.com
 0.0.0.0 fadi7apress.com
 0.0.0.0 fallround.com
@@ -606,6 +647,7 @@
 0.0.0.0 fb-accounts.com
 0.0.0.0 fbc8213450838f7ae251d4519c195138.xyz
 0.0.0.0 fbsecurity.co
+0.0.0.0 fdnews.info
 0.0.0.0 feature-publish.net
 0.0.0.0 fedortest.xyz
 0.0.0.0 feelbonesbag.com
@@ -645,9 +687,12 @@
 0.0.0.0 flickry.xyz
 0.0.0.0 flights-report.com
 0.0.0.0 flights-todays.com
+0.0.0.0 flowercafee.com
 0.0.0.0 flying-free.online
 0.0.0.0 flynewfries.com
+0.0.0.0 flytaps.com
 0.0.0.0 fofopiko.org
+0.0.0.0 folha-9.com
 0.0.0.0 foodeveryhour.com
 0.0.0.0 foodforyou.info
 0.0.0.0 foodiez.online
@@ -683,6 +728,7 @@
 0.0.0.0 gate-sync.net
 0.0.0.0 gdfr.online
 0.0.0.0 gearstereotype.com
+0.0.0.0 geloraku.id
 0.0.0.0 getagift.info
 0.0.0.0 getelements.xyz
 0.0.0.0 getoutofyourmind.com
@@ -698,6 +744,7 @@
 0.0.0.0 girlsyoulike.com
 0.0.0.0 glassesofwine.com
 0.0.0.0 glasstaken.com
+0.0.0.0 glbnews.live
 0.0.0.0 glittercases.net
 0.0.0.0 global-redirect.net
 0.0.0.0 globalcoverage.co
@@ -719,17 +766,23 @@
 0.0.0.0 google-activity.pw
 0.0.0.0 googledriveservice.com
 0.0.0.0 googleplay-store.com
+0.0.0.0 gorlovski.com
 0.0.0.0 goroskop.co
+0.0.0.0 gorows.live
 0.0.0.0 gosokm.com
 0.0.0.0 gossipsbollywoods.com
 0.0.0.0 gostatspro.com
+0.0.0.0 gostosadeluxo.com
 0.0.0.0 goto-newmail01.pro
 0.0.0.0 gotolinks.top
 0.0.0.0 greatcitymore.com
 0.0.0.0 greenbusnoise.com
 0.0.0.0 greensmallcanvas.com
 0.0.0.0 greenwatermovement.com
+0.0.0.0 growebservice.com
 0.0.0.0 growstart.net
+0.0.0.0 grupohel.social
+0.0.0.0 grvnews.live
 0.0.0.0 guardian-tt.me
 0.0.0.0 guardnew.live
 0.0.0.0 guardnews.live
@@ -737,6 +790,9 @@
 0.0.0.0 gulf-financials.com
 0.0.0.0 gulf-news.info
 0.0.0.0 gulfca.net
+0.0.0.0 gulfsports.info
+0.0.0.0 gulfsports.live
+0.0.0.0 gulfweather.live
 0.0.0.0 gumclockberry.com
 0.0.0.0 gvoice8765.online
 0.0.0.0 hairdresseraroundme.com
@@ -816,6 +872,7 @@
 0.0.0.0 ilovemymilf.com
 0.0.0.0 image.loadingmessage.info
 0.0.0.0 imageview.xyz
+0.0.0.0 imparcialpress.com
 0.0.0.0 in-politics.com
 0.0.0.0 in-weather.com
 0.0.0.0 in2date.com
@@ -873,6 +930,7 @@
 0.0.0.0 inews.gr.com
 0.0.0.0 info24.live
 0.0.0.0 infoquiz.net
+0.0.0.0 informburo.info
 0.0.0.0 infosms-a.site
 0.0.0.0 infospotpro.com
 0.0.0.0 infospress.com
@@ -886,8 +944,10 @@
 0.0.0.0 instangram.com.mx
 0.0.0.0 instegram.co
 0.0.0.0 insurance.gr.com
+0.0.0.0 intercontinentalhg.com
 0.0.0.0 internetmobilespeed.com
 0.0.0.0 intim-media.net
+0.0.0.0 intnews.world
 0.0.0.0 investigationews.com
 0.0.0.0 investormanage.net
 0.0.0.0 invoker.icu
@@ -907,13 +967,18 @@
 0.0.0.0 iusacell-movil.com.mx
 0.0.0.0 iwantitallnow.com
 0.0.0.0 jaimelire.net
+0.0.0.0 jakalas.online
 0.0.0.0 jeeyarworld.com
+0.0.0.0 jofki.com
 0.0.0.0 join.officeframe.work
 0.0.0.0 joindroin.xyz
+0.0.0.0 jornaldeangola.info
+0.0.0.0 jornalf8.com
 0.0.0.0 jquery-updater.xyz
 0.0.0.0 judgeauthority.com
 0.0.0.0 just-one-left.com
 0.0.0.0 kaidee.info
+0.0.0.0 kalwaski.xyz
 0.0.0.0 karbalaeyat.com
 0.0.0.0 kaspi-payment.com
 0.0.0.0 kathimerini.news
@@ -938,6 +1003,8 @@
 0.0.0.0 kra.center
 0.0.0.0 kranos.gr.com
 0.0.0.0 kurjerserviss.com
+0.0.0.0 kz-news.cc
+0.0.0.0 kz-shops.me
 0.0.0.0 labonneforme.net
 0.0.0.0 lamatrest.xyz
 0.0.0.0 lamborghini-s.shop
@@ -955,6 +1022,7 @@
 0.0.0.0 leadersnews.org
 0.0.0.0 leanwithme.xyz
 0.0.0.0 leavehomego.com
+0.0.0.0 leefco.net
 0.0.0.0 leggingsjustforyou.com
 0.0.0.0 legsfriesears.com
 0.0.0.0 legyelvodas.com
@@ -967,6 +1035,7 @@
 0.0.0.0 levelsteelwhite.com
 0.0.0.0 lexpress-mg.xyz
 0.0.0.0 lexpress.me
+0.0.0.0 lexpressmg.xyz
 0.0.0.0 liam-ryan.co
 0.0.0.0 license-updater.com
 0.0.0.0 lif0.top
@@ -974,6 +1043,7 @@
 0.0.0.0 lifenoonkid.com
 0.0.0.0 lifestyleshops.net
 0.0.0.0 like-the-rest.com
+0.0.0.0 lilpastanews.co
 0.0.0.0 limitedfeature.com
 0.0.0.0 limk.one
 0.0.0.0 link-crawler.com
@@ -989,6 +1059,7 @@
 0.0.0.0 littlefrogalarm.com
 0.0.0.0 live-once.net
 0.0.0.0 live24.gr.com
+0.0.0.0 liveco.live
 0.0.0.0 livingwithbadkidny.xyz
 0.0.0.0 lizzardsnail.com
 0.0.0.0 llinkedin.net
@@ -1023,10 +1094,12 @@
 0.0.0.0 loveandhatenow.com
 0.0.0.0 lowervalues.com
 0.0.0.0 lowlight.xyz
+0.0.0.0 lttlnk.net
 0.0.0.0 lubentv.com
 0.0.0.0 lylink.online
 0.0.0.0 m-resume.com
 0.0.0.0 m4r3zb2ci0-noreply.pw
+0.0.0.0 mada.sahia-mijoro.com
 0.0.0.0 maghrebfoot.com
 0.0.0.0 maghrebfunny.biz
 0.0.0.0 magicalipone.com
@@ -1110,6 +1183,7 @@
 0.0.0.0 methodslocal.com
 0.0.0.0 mgifweb.com
 0.0.0.0 mideast-today.com
+0.0.0.0 midi-madgasikara.co
 0.0.0.0 mifcbook.link
 0.0.0.0 miles-club.com
 0.0.0.0 mimestyle.xyz
@@ -1136,6 +1210,7 @@
 0.0.0.0 moh-followup.com
 0.0.0.0 moh-online.com
 0.0.0.0 monawa3ate.org
+0.0.0.0 moncn.co
 0.0.0.0 mondaymornings.co
 0.0.0.0 moneycheesecolor.com
 0.0.0.0 moneycoincurrency.com
@@ -1157,6 +1232,9 @@
 0.0.0.0 mozsafety.com
 0.0.0.0 msas.ws
 0.0.0.0 muftyat.com
+0.0.0.0 mujimbos.co
+0.0.0.0 mulherevips.com
+0.0.0.0 mult.icaixa.info
 0.0.0.0 multiplecurrencies.com
 0.0.0.0 music-electric.org
 0.0.0.0 music-headphones.org
@@ -1290,7 +1368,10 @@
 0.0.0.0 newsofficial.info
 0.0.0.0 newsofgames.com
 0.0.0.0 newsofthemoment.net
+0.0.0.0 newspool.net
 0.0.0.0 newsportal24.online
+0.0.0.0 newsreuter.com
+0.0.0.0 newsworldsports.co
 0.0.0.0 newtarrifs.net
 0.0.0.0 newworld-news.com
 0.0.0.0 newzeto.xyz
@@ -1303,6 +1384,7 @@
 0.0.0.0 nikjol.xyz
 0.0.0.0 nissan.gr.com
 0.0.0.0 nitroqensports.eu
+0.0.0.0 nm-weather.live
 0.0.0.0 nnews.co
 0.0.0.0 node.podzone.org
 0.0.0.0 noextramoney.com
@@ -1326,13 +1408,16 @@
 0.0.0.0 noti-global.com
 0.0.0.0 noti-hot.com
 0.0.0.0 noti-hoy.co
+0.0.0.0 notifications-sec.com
 0.0.0.0 notificationsneeded.com
+0.0.0.0 notify-kz.info
 0.0.0.0 notisms.net
 0.0.0.0 notresante-infos.com
 0.0.0.0 nouveau-president.com
 0.0.0.0 nouvelles247.com
 0.0.0.0 noveletters.com
 0.0.0.0 novoicenoprob.net
+0.0.0.0 novojornal.co
 0.0.0.0 novosti.bid
 0.0.0.0 novosti247.com
 0.0.0.0 now-online.net
@@ -1355,11 +1440,13 @@
 0.0.0.0 oneadjump.com
 0.0.0.0 oneleadingchat.com
 0.0.0.0 onetreeinheaven.com
+0.0.0.0 ongs.life
 0.0.0.0 online-dailynews.com
 0.0.0.0 online-loading.com
 0.0.0.0 onlinefreework.com
 0.0.0.0 onlineservices.gr.com
 0.0.0.0 onlineshopzm.com
+0.0.0.0 onlinewebinarmarketing.com
 0.0.0.0 only-news.net
 0.0.0.0 onlycart.net
 0.0.0.0 onlygossip.info
@@ -1379,6 +1466,7 @@
 0.0.0.0 orange-updates.com
 0.0.0.0 orangegypt.co
 0.0.0.0 orchomenos.news
+0.0.0.0 ordas-kz.com
 0.0.0.0 organicdiamonds.net
 0.0.0.0 otaupdatesios.com
 0.0.0.0 ourorder.info
@@ -1402,6 +1490,7 @@
 0.0.0.0 parties-fun.com
 0.0.0.0 passwd.privo7799add.net
 0.0.0.0 pastepast.net
+0.0.0.0 pasteposta.com
 0.0.0.0 pastesbin.com
 0.0.0.0 pathtogo.net
 0.0.0.0 pay-city.com
@@ -1426,6 +1515,7 @@
 0.0.0.0 pine-sales.com
 0.0.0.0 pizzatoyourplace.com
 0.0.0.0 planeocean.com
+0.0.0.0 platinalines.com
 0.0.0.0 playestore.net
 0.0.0.0 playfantasticsplastic.com
 0.0.0.0 playwithusonline.com
@@ -1433,6 +1523,7 @@
 0.0.0.0 pleaseusenew.net
 0.0.0.0 pochta-info.com
 0.0.0.0 pocopoc.xyz
+0.0.0.0 podcastnow.club
 0.0.0.0 politica504.com
 0.0.0.0 politicalpress.org
 0.0.0.0 politika.bid
@@ -1440,9 +1531,12 @@
 0.0.0.0 politiques-infos.info
 0.0.0.0 popagency.net
 0.0.0.0 popularmessages.net
+0.0.0.0 popup-pw.info
 0.0.0.0 port-connection.com
+0.0.0.0 portalxa.com
 0.0.0.0 portredirect.net
 0.0.0.0 possibilitytotransfer.com
+0.0.0.0 post-kz.info
 0.0.0.0 posta.news
 0.0.0.0 postainf.net
 0.0.0.0 pourcentfilers.com
@@ -1489,8 +1583,10 @@
 0.0.0.0 purple-enveloppe.com
 0.0.0.0 puttylearning.com
 0.0.0.0 qaintqa.com
+0.0.0.0 qamqors.net
 0.0.0.0 qaoffers.net
 0.0.0.0 qualityfeeling.net
+0.0.0.0 quick-ads.com
 0.0.0.0 quickupdates.xyz
 0.0.0.0 quitmyjob.xyz
 0.0.0.0 quota-reader.net
@@ -1555,6 +1651,7 @@
 0.0.0.0 redirectweburl.com
 0.0.0.0 redirigir.net
 0.0.0.0 redirstats.com
+0.0.0.0 redirto.info
 0.0.0.0 redstarnews.net
 0.0.0.0 reflectextension.net
 0.0.0.0 regionews.net
@@ -1619,6 +1716,7 @@
 0.0.0.0 searchjustdont.net
 0.0.0.0 searchunit.net
 0.0.0.0 sec-checker.com
+0.0.0.0 sec-flare.com
 0.0.0.0 secretgirlfriend.net
 0.0.0.0 secure-access10.mx
 0.0.0.0 secure-accounts.online
@@ -1667,21 +1765,26 @@
 0.0.0.0 settinqs-myaccount.com
 0.0.0.0 severalheroes.com
 0.0.0.0 sextape225.me
+0.0.0.0 shanam.org
 0.0.0.0 sharepassageset.com
 0.0.0.0 shia-voice.com
 0.0.0.0 shipment-status.org
+0.0.0.0 shop-collect.com
 0.0.0.0 shoppingdailydeals.net
 0.0.0.0 short-address.com
 0.0.0.0 shortely.xyz
 0.0.0.0 shorten.fi
 0.0.0.0 shortenurls.me
 0.0.0.0 shortfb.com
+0.0.0.0 shortly.work
 0.0.0.0 shortmee.one
 0.0.0.0 shortredirect.com
 0.0.0.0 shortwidgets.com
 0.0.0.0 shortxyz.com
+0.0.0.0 showsme.info
 0.0.0.0 shtraf.info
 0.0.0.0 shuturl.com
+0.0.0.0 sicnoticia.com
 0.0.0.0 signin-aouth2.pw
 0.0.0.0 signin-verify.pw
 0.0.0.0 signpetition.co
@@ -1693,9 +1796,14 @@
 0.0.0.0 site-redirecting.com
 0.0.0.0 sitepref.xyz
 0.0.0.0 skillsforest.net
+0.0.0.0 skollie.online
+0.0.0.0 skranski.com
+0.0.0.0 sky-news.live
+0.0.0.0 smallme.net
 0.0.0.0 smallperfumerain.com
 0.0.0.0 smallridebar.com
 0.0.0.0 smarttarfi.com
+0.0.0.0 smcu.me
 0.0.0.0 smokeshowshoe.com
 0.0.0.0 smoothurl.com
 0.0.0.0 sms-center.info
@@ -1720,6 +1828,7 @@
 0.0.0.0 solargroup.xyz
 0.0.0.0 somewarmremember.com
 0.0.0.0 somuchrain.com
+0.0.0.0 soq.one
 0.0.0.0 sparepresence.com
 0.0.0.0 specialgifts4all.com
 0.0.0.0 spectronet.pw
@@ -1760,6 +1869,8 @@
 0.0.0.0 storelive.co
 0.0.0.0 strangegloom.net
 0.0.0.0 strategyroles.com
+0.0.0.0 suarajubi.com
+0.0.0.0 suarajubi.net
 0.0.0.0 suitcasesmellnice.com
 0.0.0.0 summermover.com
 0.0.0.0 sunday-deals.com
@@ -1782,9 +1893,14 @@
 0.0.0.0 syncservices.one
 0.0.0.0 synctimestamp.com
 0.0.0.0 syncupdate.site
+0.0.0.0 sysly.sbs
+0.0.0.0 sysnet.life
 0.0.0.0 systemtrees.com
+0.0.0.0 t-bit.me
+0.0.0.0 t-ready.me
 0.0.0.0 t-support.net
 0.0.0.0 t1bank.xyz
+0.0.0.0 taagangola.co
 0.0.0.0 tablereservation.info
 0.0.0.0 tahmilmilafate.com
 0.0.0.0 tahmilmilafate.info
@@ -1793,6 +1909,7 @@
 0.0.0.0 takethat.co
 0.0.0.0 talabatt.net
 0.0.0.0 tastyteaflavors.com
+0.0.0.0 tclnk.live
 0.0.0.0 teachskate.com
 0.0.0.0 techhelping.net
 0.0.0.0 telangana-news24.com
@@ -1802,6 +1919,7 @@
 0.0.0.0 telephonequality.com
 0.0.0.0 template-iso.net
 0.0.0.0 tengrinews.co
+0.0.0.0 tengrinnews.live
 0.0.0.0 tentrosegain.com
 0.0.0.0 tesla-s.shop
 0.0.0.0 teslal.shop
@@ -1873,6 +1991,7 @@
 0.0.0.0 trackyourfedexpackage.net
 0.0.0.0 trade-agreement.com
 0.0.0.0 tradeexchanging.com
+0.0.0.0 traffic-moi-eg.org
 0.0.0.0 traffic-pay.com
 0.0.0.0 traffic-updates.info
 0.0.0.0 transfer-click.com
@@ -1895,8 +2014,11 @@
 0.0.0.0 tripleclickpays.com
 0.0.0.0 trkc.online
 0.0.0.0 truecaller.services
+0.0.0.0 truelocation.org
+0.0.0.0 tsapp.me
 0.0.0.0 tsrt.xyz
 0.0.0.0 tunnelprotocol.net
+0.0.0.0 tupuca.co
 0.0.0.0 turismo-aqui.com
 0.0.0.0 turkeynewsupdates.com
 0.0.0.0 turkishairines.info
@@ -1917,6 +2039,8 @@
 0.0.0.0 unavailableentry.com
 0.0.0.0 unionofteenagers.com
 0.0.0.0 uniquesite.co
+0.0.0.0 unitei.co
+0.0.0.0 universedades.com
 0.0.0.0 univision.click
 0.0.0.0 unlockaccount.net
 0.0.0.0 unonoticias.net
@@ -1973,8 +2097,10 @@
 0.0.0.0 uservicesforyou.com
 0.0.0.0 utensils.pro
 0.0.0.0 utube.digital
+0.0.0.0 utube.to
 0.0.0.0 vamizi.info
 0.0.0.0 vanillaandcream.com
+0.0.0.0 vaovao.soutien-a-rajoelina.com
 0.0.0.0 varietyjobspaid.org
 0.0.0.0 varietyregistrar.com
 0.0.0.0 vastdealsnow.com
@@ -1985,6 +2111,7 @@
 0.0.0.0 verify-app.online
 0.0.0.0 verify-mail.pro
 0.0.0.0 verifymail.live
+0.0.0.0 verifyurl.me
 0.0.0.0 vers.pw
 0.0.0.0 videosdownload.co
 0.0.0.0 videotubbe.net
@@ -1993,7 +2120,9 @@
 0.0.0.0 viedechretien.org
 0.0.0.0 viewhdvideos.com
 0.0.0.0 viewstracker.com
+0.0.0.0 vinhosadega.com
 0.0.0.0 vipmasajes.com
+0.0.0.0 visavfsglobal.co
 0.0.0.0 viva-droid.com
 0.0.0.0 viva.gr.com
 0.0.0.0 vivrechezsoi.info
@@ -2005,6 +2134,7 @@
 0.0.0.0 volcanodistance.com
 0.0.0.0 volcanosregion.com
 0.0.0.0 vouliwatch.gr.com
+0.0.0.0 wa-info.com
 0.0.0.0 waffleswithnutella.com
 0.0.0.0 waitingtoload.com
 0.0.0.0 walkerpost.net
@@ -2018,6 +2148,7 @@
 0.0.0.0 we-site.net
 0.0.0.0 weakdistance.com
 0.0.0.0 weathear.live
+0.0.0.0 weather-live.com
 0.0.0.0 weather4free.com
 0.0.0.0 weatherapi.co
 0.0.0.0 weathernewz.xyz
@@ -2060,12 +2191,14 @@
 0.0.0.0 welovebigcakes.com
 0.0.0.0 welovelollipops.com
 0.0.0.0 welovemorningcoffees.com
+0.0.0.0 wesalcity.net
 0.0.0.0 wewantflowersnow.com
 0.0.0.0 wha.tsapp.me
 0.0.0.0 whatcanidowithbirds.com
 0.0.0.0 whats-new.org
 0.0.0.0 whatsapp-app.com
 0.0.0.0 whatsappsupport.net
+0.0.0.0 whatssapp.co
 0.0.0.0 whatsuppweb.me
 0.0.0.0 whereismybonus.com
 0.0.0.0 whereismyhand.com
@@ -2094,6 +2227,7 @@
 0.0.0.0 wtc1111.com
 0.0.0.0 wtc2222.com
 0.0.0.0 wtc3333.com
+0.0.0.0 wts-app.info
 0.0.0.0 www.secure-email.site
 0.0.0.0 xbz.pw
 0.0.0.0 xchange4u.net
@@ -2134,6 +2268,7 @@
 0.0.0.0 yousunhard.com
 0.0.0.0 yout.ube.gr.com
 0.0.0.0 youtu-be.net
+0.0.0.0 youtub-eg.com
 0.0.0.0 youtub.app
 0.0.0.0 youtube.gr.live
 0.0.0.0 youtube.voto
@@ -2147,6 +2282,7 @@
 0.0.0.0 zednewszm.com
 0.0.0.0 zm-banks.com
 0.0.0.0 zm-weather.com
+0.0.0.0 zoometting.com
 0.0.0.0 zougla.gr.com
 0.0.0.0 zougla.news
 0.0.0.0 zsports-info.com
